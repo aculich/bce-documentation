@@ -17,6 +17,7 @@ BCE is currently available in two forms, both documented below.
   - <span class="fa fa-linux fa-2x"<span></span> [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 2) Download the latest BCE Virtual Machine (VM):
+
   - [Spring 2015 (BCE-2015-spring.ova)](https://berkeley.box.com/s/2g9x9c3q7qwhb9e4trwc) 
     - (3.4GB; MD5: 3d26353b7969ebcee6755529ae0751fc)
 
